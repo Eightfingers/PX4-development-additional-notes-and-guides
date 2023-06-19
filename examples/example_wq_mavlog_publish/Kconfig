@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_EXAMPLE_WQ_MAVLOG_PUBLISH
+	bool "example_wq_mavlog_publish"
+	default n
+	---help---
+		Enable support for example_wq_mavlog_publish

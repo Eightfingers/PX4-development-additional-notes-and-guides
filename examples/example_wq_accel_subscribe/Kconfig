@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_EXAMPLE_WQ_ACCEL_SUBSCRIBE
+	bool "example_wq_accel_subscribe"
+	default n
+	---help---
+		Enable support for example_wq_accel_subscribe
